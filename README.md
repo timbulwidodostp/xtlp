@@ -1,0 +1,2 @@
+# xtlp
+Panel local projections with fixed-effect (FE) estimator and split-panel jackknife (SPJ) estimator Use xtlp With STATA 19
